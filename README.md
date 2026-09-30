@@ -6,4 +6,4 @@ I am currently a Senior at West Chester University of Pennsylvania.
 
 Filling out this README any further would make my website redundant.
 
-Visit my website by [clicking this text](https://demsem.dev/).
+Learn more about me by [visiting my website](https://demsem.dev/).
